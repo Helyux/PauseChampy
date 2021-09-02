@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 pywin32 = "*"
+pystray = "*"
+pillow = "*"
 
 [dev-packages]
 
